@@ -1,2 +1,2 @@
-# Chat-Bot-Usinng-NLP
-The question answer chat bot that accepts the given question and gives the answer in Yes or No.
+# Chat-Bot-Using-NLP
+The question answer chat bot that process the various text and gives the answer of given question in Yes or No. Uses Vectorizers, Tokenization and Embedding. 
